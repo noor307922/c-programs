@@ -45,3 +45,13 @@ A Pattern is defined as a design that repeats a specific number of times. That p
 
 # Output 2
 ![Screenshot 2023-10-16 120634](https://github.com/noor307922/c-programs/assets/125033135/2878ce4b-9b65-4919-bd9f-2e977c29bcd1)
+
+# C-Programming Basics - Lab 3 (29/08/2023)
+
+# Q1) Write a program to demonstrate pointers. Declare a pointer ptr to integer and equate it to the address of integer i. Print value of i, value of &i, value of ptr and value of *ptr.
+
+# Theory:
+Pointers are one of the most important and powerful features of the C programming language. They allow us to manipulate memory directly, which can be very useful in many programming scenarios. In C, a pointer is simply a variable that holds a memory address
+
+# Output
+![Screenshot 2023-10-16 122030](https://github.com/noor307922/c-programs/assets/125033135/631a0dc2-5247-446c-8496-193fa5d1a7b8)
