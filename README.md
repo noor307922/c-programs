@@ -24,3 +24,13 @@ Continuous data.
 
 # Output
 ![Screenshot 2023-10-16 115200](https://github.com/noor307922/c-programs/assets/125033135/a6c8db04-92cb-4179-a2cd-a1251fe0171d)
+
+
+# Q2) Write a C program to read a number from the user and print a table of multiplication for that number.
+
+# Explanation:
+To print multiplication table we need to iterate from 1 to 10. Run a loop from 1 to 10 , increment 1 on each iteration. The loop structure should look like for(i=1; i<=10; i++) . Inside loop generate multiplication table using num * i and print in specified format.
+
+# Output
+
+![Screenshot 2023-10-16 115927](https://github.com/noor307922/c-programs/assets/125033135/f6a7d53f-f07b-4abf-8971-b77f3fdff184)
