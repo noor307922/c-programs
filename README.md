@@ -34,3 +34,14 @@ To print multiplication table we need to iterate from 1 to 10. Run a loop from 1
 # Output
 
 ![Screenshot 2023-10-16 115927](https://github.com/noor307922/c-programs/assets/125033135/f6a7d53f-f07b-4abf-8971-b77f3fdff184)
+
+# Q3) Write a program to display different start patterns on screen.
+
+# Explanation:
+A Pattern is defined as a design that repeats a specific number of times. That pattern can be decorative in real life, like, for example, a rangoli. A pattern program in C helps improve the concept of looping and algorithms. They are easily displayed with the help of nested loops.
+
+# Output 1
+![Screenshot 2023-10-16 120522](https://github.com/noor307922/c-programs/assets/125033135/03f4f0e1-41f8-4c64-aaaa-3a5f145ea952)
+
+# Output 2
+![Screenshot 2023-10-16 120634](https://github.com/noor307922/c-programs/assets/125033135/2878ce4b-9b65-4919-bd9f-2e977c29bcd1)
