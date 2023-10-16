@@ -26,6 +26,8 @@ Continuous data.
 ![Screenshot 2023-10-16 115200](https://github.com/noor307922/c-programs/assets/125033135/a6c8db04-92cb-4179-a2cd-a1251fe0171d)
 
 
+
+
 # Q2) Write a C program to read a number from the user and print a table of multiplication for that number.
 
 # Explanation:
@@ -55,3 +57,13 @@ Pointers are one of the most important and powerful features of the C programmin
 
 # Output
 ![Screenshot 2023-10-16 122030](https://github.com/noor307922/c-programs/assets/125033135/631a0dc2-5247-446c-8496-193fa5d1a7b8)
+
+# Q2)  Write a program in C to demonstrate function call by value and call by reference by writing a swap function to swap two integers.
+
+# Theory:
+In the case of Call by Value, when we pass the value of the parameter during the calling of the function, it copies them to the function's actual local argument. In the case of Call by Reference, when we pass the parameter's location reference/address, it copies and assigns them to the function's local argument.
+
+# Output
+
+![Screenshot 2023-10-16 123042](https://github.com/noor307922/c-programs/assets/125033135/b770d0a7-ea05-478d-a79c-fd58f1da7e0a)
+
